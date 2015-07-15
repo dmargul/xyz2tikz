@@ -26,9 +26,9 @@ outfile.write(
 	"\n"
 	"\usepackage{fontspec}"
 	"\n"
-	"\ begin{document}"
+	"\\begin{document}"
 	"\n"
-	"\ begin{tikzpicture}"
+	"\\begin{tikzpicture}"
 	"\n"
 	)
 
