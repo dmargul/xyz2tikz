@@ -80,8 +80,8 @@ for row in xyzout:
 		outfile.write(str(round(100*depth_shade[row_count])))
 		outfile.write(
 			"!," 
-			"right color=black!")
-		outfile.write(str(round(30*depth_shade[row_count])))
+			"right color=red!")
+		outfile.write(str(round(80*depth_shade[row_count])))
 		outfile.write(
 			"!,"
 			"shading angle=45]"
